@@ -1,5 +1,5 @@
 # SessioGit
-Sessió per explicar la meva experiència d'ús de Git i GitHub a l'assignatura de "Programació de dispositius mòbils". El públic destinatari són els professors d'informàtica del Tecnocamp
+Sessió per explicar la meva experiència d'ús de Git i GitHub a l'assignatura de "Programació de dispositius mòbils". El públic destinatari són els professors d'informàtica del Tecnocampus
 
 #Git i GitHub al Grau d’Enginyeria Informàtica del Tecnocampus
 
